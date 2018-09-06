@@ -1,0 +1,9 @@
+{
+  "name": "cpbaretskybot",
+  "version": "1.0.0",
+  "description": "My own tg bot",
+  "main": "bot.py",
+  "author": "YOUR-NAME-HERE",
+  "scripts": {
+    "start" : "python bot.py" 
+}
